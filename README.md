@@ -21,7 +21,7 @@ t0mpr1c3@gmail.com
 
 ## Publications
 
-http://www.researcherid.com/rid/B-7372-2008
+[https://publons.com/researcher/1555938/thomas-price/](https://publons.com/researcher/1555938/thomas-price/)
 
 ## Skills
 
