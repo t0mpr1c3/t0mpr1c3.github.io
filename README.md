@@ -15,9 +15,9 @@ t0mpr1c3@gmail.com
 
 ## Education
 
-* Ph.D.	Human Genetics (2002). _King’s College London, UK_
-* M.Sc.	Applied Statistics, Honors with Distinction (2003). _Oxford University, UK_
-* B.A.	Psychology with Mathematics, Honors 1st Class (1993). _Cambridge University, UK_
+* Ph.D.	Human Genetics. _King’s College London, UK_ (2002)
+* M.Sc.	Applied Statistics, Honors with Distinction. _Oxford University, UK_ (2003)
+* B.A.	Psychology with Mathematics, Honors 1st Class. _Cambridge University, UK_ (1993)
 
 ## Publications
 
