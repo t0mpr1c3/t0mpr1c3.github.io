@@ -6,18 +6,18 @@ t0mpr1c3@gmail.com
 
 ## Work Experience
 
-* Bioinformatics Consultant. _Chai Bio_ (2018-9)
-* Statistical Genetics Consultant. _Fulcrum Genomics_ (2017-8)
-* Research Assistant Professor (Pharmacology). _University of Pennsylvania_ (2012-2015)
-* Assistant Professor (Statistical Genetics). _King’s College London_ (2008-2012)
-* Research Associate. _Department of Pharmacology, University of Pennsylvania_ (2005-2007)
-* Postdoctoral Researcher. _Wellcome Trust Centre for Human Genetics, Oxford University_ (2003-2004)
+* Bioinformatics Consultant. _Chai Bio_. (2018-9)
+* Statistical Genetics Consultant. _Fulcrum Genomics_. (2017-8)
+* Research Assistant Professor (Pharmacology). _University of Pennsylvania_. (2012-2015)
+* Assistant Professor (Statistical Genetics). _King’s College London_. (2008-2012)
+* Research Associate. _Department of Pharmacology, University of Pennsylvania_. (2005-2007)
+* Postdoctoral Researcher. _Wellcome Trust Centre for Human Genetics, Oxford University_. (2003-2004)
 
 ## Education
 
-* Ph.D.	Human Genetics. _King’s College London, UK_ (2002)
-* M.Sc.	Applied Statistics, Honors with Distinction. _Oxford University, UK_ (2003)
-* B.A.	Psychology with Mathematics, Honors 1st Class. _Cambridge University, UK_ (1993)
+* Ph.D.	Human Genetics. _King’s College London, UK_. (2002)
+* M.Sc.	Applied Statistics, Honors with Distinction. _Oxford University, UK_. (2003)
+* B.A.	Psychology with Mathematics, Honors 1st Class. _Cambridge University, UK_. (1993)
 
 ## Publications
 
