@@ -6,7 +6,8 @@ t0mpr1c3@gmail.com
 
 ## Work Experience
 
-* Bioinformatics Consultant. _Chai Bio_. (2018-9)
+* Freelance Consultant. _Tom Price LLC_. (2016-22)
+* Bioinformatics Consultant. _Chai Bio_. (2018-20)
 * Statistical Genetics Consultant. _Fulcrum Genomics_. (2017-8)
 * Research Assistant Professor (Pharmacology). _University of Pennsylvania_. (2012-2015)
 * Assistant Professor (Statistical Genetics). _King’s College London_. (2008-2012)
