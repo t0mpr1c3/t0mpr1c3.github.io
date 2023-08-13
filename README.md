@@ -6,13 +6,14 @@ t0mpr1c3@gmail.com
 
 ## Work Experience
 
-* Freelance Consultant. _Tom Price LLC_. (2016-22)
-* Bioinformatics Consultant. _Chai Bio_. (2018-20)
-* Statistical Genetics Consultant. _Fulcrum Genomics_. (2017-8)
-* Research Assistant Professor (Pharmacology). _University of Pennsylvania_. (2012-2015)
-* Assistant Professor (Statistical Genetics). _King’s College London_. (2008-2012)
-* Research Associate. _Department of Pharmacology, University of Pennsylvania_. (2005-2007)
-* Postdoctoral Researcher. _Wellcome Trust Centre for Human Genetics, Oxford University_. (2003-2004)
+* Senior Data Scientist. _Actio Biosciences_ (2022-2023)
+* Freelance Consultant. _Tom Price LLC_ (2016-22)
+* Bioinformatics Consultant. _Chai Bio_ (2018-20)
+* Statistical Genetics Consultant. _Fulcrum Genomics_ (2017-8)
+* Research Assistant Professor (Pharmacology). _University of Pennsylvania_ (2012-2015)
+* Assistant Professor (Statistical Genetics). _King’s College London_ (2008-2012)
+* Research Associate. _University of Pennsylvania_ (2005-2007)
+* Postdoctoral Researcher. _Oxford University_ (2003-2004)
 
 ## Education
 
@@ -22,15 +23,15 @@ t0mpr1c3@gmail.com
 
 ## Publications
 
-[https://publons.com/researcher/1555938/thomas-price/](https://publons.com/researcher/1555938/thomas-price/)
+[https://orcid.org/0000-0001-7356-2109](https://orcid.org/0000-0001-7356-2109)
 
 ## Skills
 
 * Modern frequentist and Bayesian statistics
+* Statistical programming in R, SAS, SPSS, Stata, pandas/numpy/scipy
+* Machine learning (tensorflow, pyTorch, RWeka)
 * Data visualization, exploration and analysis
-* Data management (SQL, REST, GraphQL)
-* Statistical programming in R, SAS, SPSS, Stata, pandas/numpy/scipy, …
-* Machine learning and feature selection
-* Distributed and parallel computing
-* Project and version management (Basecamp, Asana, Travis CI, Git, SVN)
-* Application coding in C, Python, Julia, Java, Javascript, Node.js, Perl, shell script, …
+* Data acquisition, storage, & management (Python data science stack, SQL, webapps)
+* High performance computing (AWS, cluster)
+* Project and version management (Basecamp, Asana, Git, SVN, chef, Travis CI, Github actions)
+* Application coding and scripting in C++, Python, Julia, Java, Javascript, Node.js, Perl, shell script
