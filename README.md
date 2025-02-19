@@ -4,6 +4,17 @@
 
 t0mpr1c3@gmail.com
 
+## Skills
+
+* Modern frequentist and Bayesian statistics
+* Statistical programming in R, SAS, SPSS, Stata, Python data science stack
+* Machine learning (tensorflow, pyTorch, RWeka)
+* Data visualization, exploration and analysis
+* Data acquisition, storage, & management (SQL, webapps)
+* Distributed and high performance computing (AWS, cluster, Spark)
+* Application coding and scripting in C/C++, Python, Julia, Java, Javascript/Typescript/node, Perl, shell script
+* Project and version management, devOps, and CI/CD (Basecamp, Asana, Git, SVN, Docker, chef, Travis, Github actions)
+
 ## Work Experience
 
 * Automation Scientist. _Robotics Institute, Carnegie Mellon University_ (2024-)
@@ -30,14 +41,3 @@ t0mpr1c3@gmail.com
 ## Code
 
 [https://github.com/t0mpr1c3](https://github.com/t0mpr1c3)
-
-## Skills
-
-* Modern frequentist and Bayesian statistics
-* Statistical programming in R, SAS, SPSS, Stata, Python data science stack
-* Machine learning (tensorflow, pyTorch, RWeka)
-* Data visualization, exploration and analysis
-* Data acquisition, storage, & management (SQL, webapps)
-* Distributed and high performance computing (AWS, cluster, Spark)
-* Application coding and scripting in C/C++, Python, Julia, Java, Javascript/Typescript/node, Perl, shell script
-* Project and version management, devOps, and CI/CD (Basecamp, Asana, Git, SVN, Docker, chef, Travis, Github actions)
