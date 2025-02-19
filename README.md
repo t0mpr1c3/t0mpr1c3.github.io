@@ -6,10 +6,12 @@ t0mpr1c3@gmail.com
 
 ## Work Experience
 
+* Automation Scientist. _Robotics Institute, Carnegie Mellon University_ (2024-)
 * Senior Data Scientist. _Actio Biosciences_ (2022-2023)
-* Freelance Consultant. _Tom Price LLC_ (2016-22)
-* Bioinformatics Consultant. _Chai Bio_ (2018-20)
+* Open Source Hardware Entrepreneur. _Woolly Logic_ (2020-)
+* Software Engineer. _Chai Bio_ (2018-20)
 * Statistical Genetics Consultant. _Fulcrum Genomics_ (2017-8)
+* Freelance Scientific Consultant. _Tom Price LLC_ (2016-22)
 * Research Assistant Professor (Pharmacology). _University of Pennsylvania_ (2012-2015)
 * Assistant Professor (Statistical Genetics). _King’s College London_ (2008-2012)
 * Research Associate. _University of Pennsylvania_ (2005-2007)
@@ -25,13 +27,17 @@ t0mpr1c3@gmail.com
 
 [https://orcid.org/0000-0001-7356-2109](https://orcid.org/0000-0001-7356-2109)
 
+## Code
+
+[https://github.com/t0mpr1c3](https://github.com/t0mpr1c3)
+
 ## Skills
 
 * Modern frequentist and Bayesian statistics
-* Statistical programming in R, SAS, SPSS, Stata, pandas/numpy/scipy
+* Statistical programming in R, SAS, SPSS, Stata, Python data science stack
 * Machine learning (tensorflow, pyTorch, RWeka)
 * Data visualization, exploration and analysis
-* Data acquisition, storage, & management (Python data science stack, SQL, webapps)
-* High performance computing (AWS, cluster)
-* Project and version management (Basecamp, Asana, Git, SVN, chef, Travis CI, Github actions)
-* Application coding and scripting in C++, Python, Julia, Java, Javascript, Node.js, Perl, shell script
+* Data acquisition, storage, & management (SQL, webapps)
+* Distributed and high performance computing (AWS, cluster, Spark)
+* Application coding and scripting in C/C++, Python, Julia, Java, Javascript/Typescript/node, Perl, shell script
+* Project and version management, devOps, and CI/CD (Basecamp, Asana, Git, SVN, Docker, chef, Travis, Github actions)
