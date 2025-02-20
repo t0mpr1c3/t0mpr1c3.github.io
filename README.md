@@ -7,13 +7,13 @@ t0mpr1c3@gmail.com
 ## Skills
 
 * Modern frequentist and Bayesian statistics
-* Statistical programming. _R, SAS, SPSS, Stata, Python data science stack_
-* Machine learning. _tensorflow, pyTorch, RWeka_
+* Statistical programming (_R, SAS, SPSS, Stata, Python data science stack_)
+* Machine learning (_tensorflow, pyTorch, RWeka_)
 * Data visualization, exploration and analysis
-* Data acquisition, storage, & management. _SQL, noSQL, webapps_
-* Distributed and high performance computing. _AWS, cluster, Spark_
-* Application coding and scripting. _C/C++, Python, Julia, Javascript/Typescript/node, Perl, shell script_
-* Project and version management, devOps, and CI/CD. _Basecamp, Asana, Git, SVN, Docker, chef, Travis, Github actions_
+* Data acquisition, storage, & management (_SQL, noSQL, webapps_)
+* Distributed and high performance computing (_AWS, cluster, Spark_)
+* Application coding and scripting (_C/C++, Python, Julia, Javascript/Typescript/node, Perl, shell script_)
+* Project and version management, devOps, and CI/CD (_Basecamp, Asana, Git, SVN, Docker, chef, Travis, Github actions_)
 
 ## Work Experience
 
