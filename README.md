@@ -17,16 +17,16 @@ t0mpr1c3@gmail.com
 
 ## Work Experience
 
-* Automation Scientist. (2024-) _Robotics Institute, Carnegie Mellon University_
-* Senior Data Scientist. (2022-2023) _Actio Biosciences_
-* Open Source Hardware Entrepreneur. (2020-) _Woolly Logic_
-* Software Engineer. (2018-20) _Chai Bio_
-* Statistical Genetics Consultant. (2017-8) _Fulcrum Genomics_
-* Freelance Scientific Consultant. (2016-22) _Tom Price LLC_
-* Research Assistant Professor (Pharmacology). (2012-2015) _University of Pennsylvania_
-* Assistant Professor (Statistical Genetics). (2008-2012) _King’s College London_
-* Research Associate. (2005-2007) _University of Pennsylvania_
-* Postdoctoral Researcher. (2003-2004) _Oxford University_
+* Automation Scientist (2024-). _Robotics Institute, Carnegie Mellon University_
+* Senior Data Scientist (2022-2023). _Actio Biosciences_
+* Open Source Hardware Entrepreneur (2020-). _Woolly Logic_
+* Software Engineer (2018-20). _Chai Bio_
+* Statistical Genetics Consultant (2017-8). _Fulcrum Genomics_
+* Freelance Scientific Consultant (2016-22). _Tom Price LLC_
+* Research Assistant Professor (Pharmacology) (2012-2015). _University of Pennsylvania_
+* Assistant Professor (Statistical Genetics) (2008-2012). _King’s College London_
+* Research Associate (2005-2007). _University of Pennsylvania_
+* Postdoctoral Researcher (2003-2004). _Oxford University_
 
 ## Education
 
